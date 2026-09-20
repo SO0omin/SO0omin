@@ -121,12 +121,7 @@
 | `2026.07 – 10` | **Eunggeubi** — AI 에이전트 의료 앱 | 기획 · Backend |
 | `2026.09 –` | **NeuroKnot** — RAG 문해력 학습 플랫폼 | Slice 2 · 퀴즈/해설 생성 |
 
-<br/>
 
-> **NeuroKnot · Slice 2** — Claude 구조화 출력으로 근거 위치와 오답 유형을 포함한 해설 생성,
-> Batch API 기반 퀴즈 배치 생성, 프롬프트 캐싱, eval 셋 구축까지 RAG의 **G** 파트를 담당합니다.
-
-<br/>
 
 ## 🏆 Award
 
